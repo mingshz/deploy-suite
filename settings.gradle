@@ -1,0 +1,3 @@
+rootProject.name = 'deploy-suite'
+include 'tools'
+
